@@ -85,3 +85,12 @@ The layout is arranged using `.pack()` and `.grid()` for clarity and alignment.
 ## **11. Conclusion**
 
 The Password Generator Application built using Python’s `tkinter` is a practical tool that allows users to quickly generate secure passwords of any desired length. It provides a user-friendly GUI and instant clipboard functionality. This project is ideal for beginners to understand event-driven programming, ASCII handling, GUI layout, and clipboard access in Python.
+
+## **12.OUTPUT**
+![Screenshot 2025-07-05 124155](https://github.com/user-attachments/assets/a2a75a0a-4c52-45c0-ae3b-eadf2db7cff5)
+
+![Screenshot 2025-07-05 124210](https://github.com/user-attachments/assets/05b92ab4-20ec-455f-bcb7-e7e36cfbe002)
+![Screenshot 2025-07-05 124221](https://github.com/user-attachments/assets/1c195258-5089-4ce3-9539-9a4d25748c83)
+![Screenshot 2025-07-05 124242](https://github.com/user-attachments/assets/97181d51-28eb-4907-bbd0-2b5e81dbfcd7)
+
+
